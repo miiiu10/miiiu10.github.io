@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuto Mistui
+title: 三ツ井 悠翔 / Yuto Mitsui
 
 # Full name (for SEO)
 first_name: Yuto
