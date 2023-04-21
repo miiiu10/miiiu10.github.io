@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>趣味 |</title><link>https://miiiu10.github.io/tag/%E8%B6%A3%E5%91%B3/</link><atom:link href="https://miiiu10.github.io/tag/%E8%B6%A3%E5%91%B3/index.xml" rel="self" type="application/rss+xml"/><description>趣味</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><image><url>https://miiiu10.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>趣味</title><link>https://miiiu10.github.io/tag/%E8%B6%A3%E5%91%B3/</link></image><item><title>会議室の予約管理をするSlackアプリを作りました。</title><link>https://miiiu10.github.io/post/ochanoma-booker/</link><pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate><guid>https://miiiu10.github.io/post/ochanoma-booker/</guid><description>&lt;h1 id="ochanomabookerの使い方">OchanomaBookerの使い方&lt;/h1>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./kirin.gif" alt="gif" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>研究室のお茶室のスケジュールを管理するSlackアプリです。
+現在はお茶の間が消失したため、621の会議室のスケジュールを管理しています。
+Google Calendar上でもスケジュールの確認・削除ができます。&lt;/p>
+&lt;h2 id="導入方法">導入方法&lt;/h2>
+&lt;p>slackのAppから&amp;quot;OchanomaBooker&amp;quot;を選択します。&lt;/p>
+&lt;h2 id="使い方">使い方&lt;/h2>
+&lt;p>基本的にホームタブから使用します。
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./home.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="予定追加時">予定追加時&lt;/h3>
+&lt;p>日付と開始時刻・終了時刻を選択し、伝えたいことがあれば詳細に記入できます。
+終了時刻を入力しなかった場合は開始時刻から1時間後まででスケジュールに登録されます。
+最後に追加ボタンを押すと、予定が追加されます。
+アプリから追加すると#お茶室予約 に予約したことが通知されます。
+誰かが先に予定を入れていた際には予約ができないようになっています。&lt;/p>
+&lt;h3 id="予定確認時">予定確認時&lt;/h3>
+&lt;p>削除ボタンの横にある確認ボタンを押すと、予定の確認ができます。
+30日後までの予定のみ表示されます。
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./check.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="予定削除時">予定削除時&lt;/h3>
+&lt;p>予約確認時に表示された予定のIDを入力し、削除ボタンを押すと予定が削除されます。
+予約をした際に送信されたチャット横にあるdeleteボタンを押すとその予定が削除されます。&lt;/p>
+&lt;p>&lt;del>隠しコマンド&lt;/del>&lt;/p>
+&lt;ul>
+&lt;li>メッセージで&amp;quot;hello&amp;quot;と打つと…&lt;/li>
+&lt;/ul>
+&lt;h2 id="その他">その他&lt;/h2>
+&lt;p>もし、botが動いていない時はGoogle Calendarにアクセスして入力してください。&lt;/p>
+&lt;p>その他の要望，不具合等があれば，ご連絡ください！&lt;/p>
+&lt;p>実装コードは&lt;a href="https://github.com/miiiu10/ocha-room" target="_blank" rel="noopener">ここ&lt;/a>にあります。もし一緒に開発したい！という人がいたら気軽に声をかけてください。&lt;/p></description></item></channel></rss>

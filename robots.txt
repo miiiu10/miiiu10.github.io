@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://miiiu10.github.io/sitemap.xml
