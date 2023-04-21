@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 三ツ井 悠翔 / Yuto Mitsui
+title: 三ツ井 悠翔
 
 # Full name (for SEO)
 first_name: Yuto
