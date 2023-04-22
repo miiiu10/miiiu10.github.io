@@ -86,8 +86,8 @@ sections:
         - title: 学士課程
           company: Tohoku University
           location: Sendai, Japan
-          date_start: '2022-03-30'
-          date_end: '2018-04-01'
+          date_start: '2018-04-01'
+          date_end: '2022-03-30'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
