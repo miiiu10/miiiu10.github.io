@@ -112,3 +112,11 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+# Vertification
+marketing:
+  verification:
+    google: 'google-site-verification: google054d37cb47a7b2fb.html'
+    baidu: ''
+    bing: ''
