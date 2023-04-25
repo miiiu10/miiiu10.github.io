@@ -17,14 +17,14 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: '東北大学'
+    description: '三ツ井悠翔のポートフォリオ'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google054d37cb47a7b2fb.html'
     baidu: ''
 
 # Site header
@@ -112,11 +112,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-
-# Vertification
-marketing:
-  verification:
-    google: 'google054d37cb47a7b2fb.html'
-    baidu: ''
-    bing: ''
